@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="org.example.clientservicemappnative" version="1.0.0">
+    <profile name="mobile"/>
+    <ui-application appid="org.example.clientservicemappnative" exec="clientservicemappnative" launch_mode="single" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>clientservicemappnative</label>
+        <icon>clientservicemappnative.png</icon>
+    </ui-application>
+</manifest>
